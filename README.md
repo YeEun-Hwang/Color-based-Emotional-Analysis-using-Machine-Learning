@@ -10,7 +10,7 @@ Download Link : [Paper](https://drive.google.com/file/d/1ar9R1RwwCOPMbPviZfNuvDV
 
 ### Our Team 
  - Nahyuk Lee (School of Computer Science & Engineering, Chung-Ang Univ.)
- - **Yeeun Hwang ** 🙋‍♂️(School of Business Administration, Chung-Ang Univ.)
+ - **Yeeun Hwang** 🙋‍♂️(School of Business Administration, Chung-Ang Univ.)
  - Yein Moon (School of Electrical and Electronics Engineering, Chung-Ang Univ.)
  - Yuri So (Department of Applied Statistics, Chung-Ang Univ.)
 
