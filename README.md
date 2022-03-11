@@ -29,7 +29,7 @@ The graph shows that the color contrast between green and red shows that the sce
 The system flow of our project is as follows. 
 
 ### a) K-means Clustering for color
-Groups have been formed to ensure that the color spectrum is well representative of the color information of a single image, while maintaining the degree to which the operation speed is not too slow. The color spectrum data clustered into five groups were used to analyze images and to use them in the course of future machine learning.
+The color spectrums have been formed by clustering to ensure that itself represents well the color of a single image, while maintaining the degree to which the operation speed is not too slow. The color spectrum data clustered like below were used to analyze images and to use them in future machine learning.
 
 ![](imgs/spectrum.jpg)
 
