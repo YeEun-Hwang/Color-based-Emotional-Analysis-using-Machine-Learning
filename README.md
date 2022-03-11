@@ -29,12 +29,12 @@ The graph shows that the color contrast between green and red shows that the sce
 The system flow of our project is as follows. 
 
 ### a) K-means Clustering for color
-Groups have been formed to ensure that the color spectrum is well representative of the color information of a single image, while maintaining the degree to which the operation speed is not too slow. Thg color spectrum data clustered into five groups were used to analyze images and to use them in the course of future machine learning.
+Groups have been formed to ensure that the color spectrum is well representative of the color information of a single image, while maintaining the degree to which the operation speed is not too slow. The color spectrum data clustered into five groups were used to analyze images and to use them in the course of future machine learning.
 
 ![](imgs/spectrum.jpg)
 
 ### b) Extracting emotion
-Through k-mean clustering, five color information clustered and its ratio determined the RGB color information of the image. The color difference was calculated using Euclidean distance. The harmonization of colors is generally indicated by the coloration relationship, and we calculated and measured the relationship with the adjacent color.
+Through k-means clustering, five color information clustered and its ratio determined the RGB color information of the image. The color difference was calculated by using Euclidean distance. The harmonization of colors is generally indicated by the coloration relationship, and we calculated and measured the relationship with the adjacent color.
 
 | **Type** | **Date** | **R_avg** | **G_avg** | **B_avg** | **Color_Var** | **V_Var** | **S_Var** | **Label** |
 |:--------:|:--------:|:--------:|:--------:|:--------:| :--------:|:--------:|:--------:|:--------:|
@@ -43,7 +43,7 @@ Through k-mean clustering, five color information clustered and its ratio determ
 | ![](imgs/031.jpg) | ![](imgs/032.jpg) | 41.0 | 33.2 | 34.7 | 10127.2 | 17885.0 | 0.1 | **0 (Happy)** | 
 | ![](imgs/041.jpg) | ![](imgs/042.jpg) | 34.7 | 40.0 | 45.2 | 5702.1 | 30707.2 | 0.1 | **3 (Comport)** |
 
-The feature information we used for mechanical learning is as shown in Table. The spectrum was extracted for a given image and the characteristics and labels for each were matched. The labels are numbered 0, 1, 2, 3 and each means happy, depress, passion, and comport.
+The feature information we used for mechanical learning is as shown in the table. The spectrum was extracted for a given image and the characteristics and labels for each were matched. The labels are numbered 0, 1, 2, 3 and each means happy, depress, passion, and comport.
 
 ### c) Machine Learning
 Emotional classification models were produced through the representative classification learning algorithms, Decision Tree, Random Forest, and Logistic Regression. The line was optimized by tuning the hyper parameter of the classification model.
