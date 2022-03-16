@@ -17,7 +17,7 @@ Download Link : [Paper](https://drive.google.com/file/d/1ar9R1RwwCOPMbPviZfNuvDV
 
 ## Application
 ### Example 01 : In Timelaps Video
-The graph visualizes how the sensibilities of 'happy', 'press', 'angry' and 'comfort' change over time.
+The graph visualizes how the sensibilities of 'happy', 'depress', 'angry' and 'comfort' change over time.
 
 ![](imgs/application.png)
 ### Example 02 : In 1 minute Movie Scene
